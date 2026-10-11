@@ -1,0 +1,13 @@
+# Manim generated files
+media/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Python virtual environments
+.venv/
+venv/
